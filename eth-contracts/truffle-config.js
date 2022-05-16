@@ -19,10 +19,8 @@
  */
 
 const HDWalletProvider = require("@truffle/hdwallet-provider");
-const infuraUrl =
-  "https://rinkeby.infura.io/v3/ab3bbb85723e4b8aba092b7654fad7d3";
-const mnemonic =
-  "disease glad wool search symptom scan luggage news fiction core exotic prevent";
+const infuraUrl = "";
+const mnemonic = "";
 
 module.exports = {
   /**

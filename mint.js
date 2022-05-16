@@ -1,14 +1,12 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
 const web3 = require("web3");
 
-const MNEMONIC =
-  "disease glad wool search symptom scan luggage news fiction core exotic prevent";
+const MNEMONIC = "";
 
 let NFT_CONTRACT_ADDRESS = "0xFABE3Db92EbddcC26D38BBf1f5ed87ea80D6fe87";
-let OWNER_ADDRESS = "0xC25a02BC009060AE05157d101a5611e9D45dea45";
+let OWNER_ADDRESS = "";
 
-const infuraUrl =
-  "https://rinkeby.infura.io/v3/ab3bbb85723e4b8aba092b7654fad7d3";
+const infuraUrl = "";
 
 const correctProof = {
   proof: {
